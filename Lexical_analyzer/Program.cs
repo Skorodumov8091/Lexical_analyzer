@@ -9,8 +9,8 @@ namespace Lexical_analyzer
         enum States { S, INT, ID, ERROR, COLOR, STRING };
         static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader(@"C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\input.txt");
-            StreamWriter sw = new StreamWriter(@"C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\output.txt");
+            StreamReader sr = new StreamReader(@"C:\Users\skoro\Documents\GitHub\Lexical_analyzer\input.txt");
+            StreamWriter sw = new StreamWriter(@"C:\Users\skoro\Documents\GitHub\Lexical_analyzer\output.txt");
 
             string text = sr.ReadToEnd();
 
