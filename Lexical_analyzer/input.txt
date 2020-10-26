@@ -1,0 +1,14 @@
+<html>
+<head>
+	<meta charset='utf-8'>
+	<title> 'Лексический анализатор' </title>
+</head>
+<body background=#ff0000>
+	<h1> 'Лексический анализатор' </h1>
+	<img src='../img/lex.png' >
+	<h2 'qwerty'>'Лексический анализатор'</h2>
+	<br>
+	<h3 font-size=20>'Лексический анализатор'</h3>
+	<p font-size=16 color=#ffff00>'Лексический анализатор'</p>
+</body>
+</html>

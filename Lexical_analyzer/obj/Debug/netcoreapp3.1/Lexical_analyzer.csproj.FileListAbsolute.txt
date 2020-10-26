@@ -1,0 +1,13 @@
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\bin\Debug\netcoreapp3.1\Lexical_analyzer.exe
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\bin\Debug\netcoreapp3.1\Lexical_analyzer.deps.json
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\bin\Debug\netcoreapp3.1\Lexical_analyzer.runtimeconfig.json
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\bin\Debug\netcoreapp3.1\Lexical_analyzer.runtimeconfig.dev.json
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\bin\Debug\netcoreapp3.1\Lexical_analyzer.dll
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\bin\Debug\netcoreapp3.1\Lexical_analyzer.pdb
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\obj\Debug\netcoreapp3.1\Lexical_analyzer.csprojAssemblyReference.cache
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\obj\Debug\netcoreapp3.1\Lexical_analyzer.AssemblyInfoInputs.cache
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\obj\Debug\netcoreapp3.1\Lexical_analyzer.AssemblyInfo.cs
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\obj\Debug\netcoreapp3.1\Lexical_analyzer.csproj.CoreCompileInputs.cache
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\obj\Debug\netcoreapp3.1\Lexical_analyzer.dll
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\obj\Debug\netcoreapp3.1\Lexical_analyzer.pdb
+C:\Users\skoro\source\repos\Lexical_analyzer\Lexical_analyzer\obj\Debug\netcoreapp3.1\Lexical_analyzer.genruntimeconfig.cache
